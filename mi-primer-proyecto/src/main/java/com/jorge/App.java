@@ -12,5 +12,6 @@ public class App {
 
     System.out.println(texto.toUpperCase());
     System.out.println(StringUtils.isNotBlank(texto));
+    System.out.println("Proyecto Maven con Git");
 }
 }
